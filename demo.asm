@@ -171,7 +171,7 @@ TimerHandler proc
 		pushregs						; put macro pushregs here
 		; Here we skip SkipInterrupts interrupts before swithching to another task.
 		dec		TimerCounter			; *(TimerCounter)--
-		jge		@@Pass					; if *TimerCounter == 0 goto @@Pass
+		jge		@@Pass					; if *TimerCounter >= 0 goto @@Pass
 		mov		TimerCounter, SkipInterrupts	; *TimerCounter = SkipInterrupts
 		; Check if the handler interrupted the main code.
 		cmp		CurrentTaskIndex, -1	; compare *CurrentTaskIndex to -1
