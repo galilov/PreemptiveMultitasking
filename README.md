@@ -12,3 +12,6 @@ RUN:
 demo.com
 
 ![image](https://user-images.githubusercontent.com/3244626/213021902-6c2bcbdd-5668-4803-b95c-82515fefd8cd.png)
+
+VIDEO (russian):
+https://youtu.be/JGeul-UZooI
