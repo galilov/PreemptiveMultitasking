@@ -14,4 +14,4 @@ demo.com
 ![image](https://user-images.githubusercontent.com/3244626/213021902-6c2bcbdd-5668-4803-b95c-82515fefd8cd.png)
 
 VIDEO (russian):
-https://youtu.be/JGeul-UZooI
+[![Вытесняющая многозадачность. Кухнонный пример на ассемблере x86](https://i9.ytimg.com/vi/JGeul-UZooI/maxresdefault.jpg?v=63c71fda&sqp=CNS5pJ4G&rs=AOn4CLAsxz-JzkN-hZhO2qAmZcvs_JwV0A)](https://youtu.be/JGeul-UZooI)
